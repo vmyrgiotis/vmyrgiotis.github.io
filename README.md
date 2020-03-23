@@ -1,6 +1,6 @@
 ### About 
 --------- 
-Welcome to my GitHub page. I am a postdoctoral researcher at the School of Geosciences of the University of Edinburgh. My research focuses on the interaction of agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the movement of carbon and nitrogen in the plants and soils of agricultural ecosystems.
+Welcome to my GitHub page. I am a postdoctoral researcher at the School of Geosciences of the University of Edinburgh. My research focuses on the interaction of agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict carbon and nitrogen dynamics in agricultural ecosystems.
 
 
 ### Code 
@@ -9,10 +9,9 @@ Welcome to my GitHub page. I am a postdoctoral researcher at the School of Geosc
 
 **Model-data fusion (MDF)** is the process of using observations of agro-ecosystem functioning to improve the reliability of agro-ecosystem models and their predictions. A MDF algorithm developed for use with DALEC-Grass can be found [here](https://github.com/vmyrgiotis/DALEC_Grass).
 
-**Model evaluation** metrics are used to provide quantitative assessments of model predictive skill against observed system variables. A tutorial on agro-ecosystem model evaluation using the *accuracy* metric can be found 
-[here](https://github.com/vmyrgiotis/model_evaluation_tutorial).
+**Model evaluation** metrics are used to provide quantitative assessments of model predictive skill against observed system variables. A tutorial on agro-ecosystem model evaluation using the *accuracy* metric can be found [here](https://github.com/vmyrgiotis/model_evaluation_tutorial).
 
 
 ### Publications 
 --------- 
-You can view my research profile and publications in [ResearchGate](https://www.researchgate.net/profile/Vasilis_Myrgiotis). 
+You can view my publications in [ResearchGate](https://www.researchgate.net/profile/Vasilis_Myrgiotis). 
