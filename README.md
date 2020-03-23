@@ -3,7 +3,7 @@
 Welcome to my GitHub page. 
 I am a researcher currently working at the School of Geosciences of the University of Edinburgh. 
 My research focuses on the interaction of agricultural ecosystems and the environment. 
-I use mathematical modelling and data analysis to understand, describe and predict the movement of carbon and nitrogen in agricultural ecosystems.
+I use mathematical modelling and data analylitics to understand, describe and predict the movement of carbon and nitrogen in the plants in soil of agricultural ecosystems.
 
 ### DALEC-Grass 
 
@@ -12,7 +12,7 @@ DALEC-Grass is a simple process model of grassland biogeochemistry. It simulates
 
 ### Model-data fusion  
 
-Model-data fusion refers to the use of a range of approaches through which observations of a system of interest, such as an ecosystem, can be used to inform a model of that system on its actual state. 
+Model-data fusion refers to the use of a range of techniques through which observations of a system of interest, such as an ecosystem, can inform a model of that system about its actual state. 
 
 ### Model evaluation  
 
