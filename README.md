@@ -12,7 +12,6 @@ You can find the articles, which I have authored, and the projects, in which I h
 
 <!---
 Model-data fusion (MDF) refers to the use of various techniques through which observations about a system are used to inform a model of that system about the system's actual state with the aim of improving the reliability of the model's predictions. In the context of agroecosystem biogeochemistry, observed data are mostly snapshots of the above and/or below-ground concentration of nutrients, carbon, water etc. Such data are obtained by field sampling and the use of handheld/airborne/satellite sensors. Also, more temporally-continuous data on variables such as carbon dioxide and nitrous oxide fluxes can be obtained by flux tower and chamber-based measurment systems. The developed Bayesian MDF algorithm can use time-series of observations for any modelled variable to inform DALEC-Grass. Informing DALEC-Grass means refining the value range of its 33 parameters in order for the simulated data to fit with the observed data as good as possible. The Metropolis–Hastings algorithm is used to sample from multiple Markov chains. Samples that produce model outputs, which do not comply with basic ecological and biogeochemical rules are discarded.
----!> 
 
 - **Model evaluation** metrics are used to provide a quantitative assessment of how well a model predicts one or more system variables. A tutorial on agroecosystem model evaluation can be found 
 [here](https://github.com/vmyrgiotis/model_evaluation_tutorial)
