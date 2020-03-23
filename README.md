@@ -6,7 +6,7 @@ You can view my academic and research profile in [ResearchGate](https://www.rese
 
 ## Tools 
 
-**DALEC-Grass** is a model of carbon biogeochemistry in managed grasslands ([code](https://github.com/vmyrgiotis/DALEC_Grass) | [tutorial](https://github.com/vmyrgiotis/DALEC_Grass)).
+**DALEC-Grass** is a model of carbon biogeochemistry in managed grasslands ([code](https://github.com/vmyrgiotis/DALEC_Grass) & [tutorial](https://github.com/vmyrgiotis/DALEC_Grass)).
 
 **Model-data fusion (MDF)** is the process of using observations of agro-ecosystem functioning to improve the reliability of agro-ecosystem models and their predictions. A MDF algorithm developed for use with DALEC-Grass can be found [here](https://github.com/vmyrgiotis/DALEC_Grass).
 
