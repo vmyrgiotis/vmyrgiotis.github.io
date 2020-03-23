@@ -7,7 +7,8 @@ I am using models and data analysis to understand, describe and predict the move
 
 ### DALEC-Grass 
 
-DALEC-Grass is a simple model that simulates photosynthesis, carbon allocation and biomass removal (i.e. grazing and cutting) in managed grasslands. You can access the code of the model in [Link] url(https://github.com/vmyrgiotis/DALEC_Grass)
+DALEC-Grass is a simple model that simulates photosynthesis, carbon allocation and biomass removal (i.e. grazing and cutting) in managed grasslands. You can access the code of the model in 
+[GitHub Flavored Markdown](https://github.com/vmyrgiotis/DALEC_Grass)
 
 ### Model-data fusion  
 
