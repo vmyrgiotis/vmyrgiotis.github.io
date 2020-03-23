@@ -14,4 +14,4 @@ Welcome to my GitHub page. I am a postdoctoral researcher at the School of Geosc
 
 ### Publications 
 --------- 
-A list of my publications is available in [ResearchGate](https://www.researchgate.net/profile/Vasilis_Myrgiotis/publications). 
+An up-to-date list of publications is available on [ResearchGate](https://www.researchgate.net/profile/Vasilis_Myrgiotis/publications). 
