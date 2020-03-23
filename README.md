@@ -1,12 +1,10 @@
 ### About 
-***
-
-elcome to my GitHub page. I am a postdoctoral researcher at the School of Geosciences of the University of Edinburgh. My research focuses on the interaction of agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the movement of carbon and nitrogen in the plants and soils of agricultural ecosystems.
+--------- 
+Welcome to my GitHub page. I am a postdoctoral researcher at the School of Geosciences of the University of Edinburgh. My research focuses on the interaction of agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the movement of carbon and nitrogen in the plants and soils of agricultural ecosystems.
 
 
 ### Code 
-***
-
+--------- 
 **DALEC-Grass** is a model of carbon biogeochemistry in managed grasslands ([code](https://github.com/vmyrgiotis/DALEC_Grass) & [tutorial](https://github.com/vmyrgiotis/DALEC_Grass)).
 
 **Model-data fusion (MDF)** is the process of using observations of agro-ecosystem functioning to improve the reliability of agro-ecosystem models and their predictions. A MDF algorithm developed for use with DALEC-Grass can be found [here](https://github.com/vmyrgiotis/DALEC_Grass).
@@ -16,6 +14,5 @@ elcome to my GitHub page. I am a postdoctoral researcher at the School of Geosci
 
 
 ### Publications 
-***
-
+--------- 
 You can view my research profile and publications in [ResearchGate](https://www.researchgate.net/profile/Vasilis_Myrgiotis). 
