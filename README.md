@@ -1,6 +1,6 @@
 Welcome to my GitHub page. 
 
-I am a researcher currently working at the School of Geosciences of the University of Edinburgh. My research focuses on the interaction of agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the movement of carbon and nitrogen in the plants in soil of agricultural ecosystems. 
+I am a researcher currently working at the School of Geosciences of the University of Edinburgh. My research focuses on the interaction of agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the movement of carbon and nitrogen in the plants and soils of agricultural ecosystems. 
 
 You can view my research profile [here](https://www.researchgate.net/profile/Vasilis_Myrgiotis). 
 
