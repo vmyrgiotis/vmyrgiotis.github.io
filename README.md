@@ -4,11 +4,11 @@ Welcome to my GitHub page.
 
 I am a researcher currently working at the School of Geosciences of the University of Edinburgh. My research focuses on the interaction of agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the movement of carbon and nitrogen in the plants in soil of agricultural ecosystems. 
 
-You can find the articles, which I have authored, and the projects, in which I have participated, in [ResearchGate](https://www.researchgate.net/profile/Vasilis_Myrgiotis). Descriptions of the tools/scripts that I use (available on GitHub) are presented below.
+You can find the articles, which I have authored, and the projects, in which I have participated, in [ResearchGate](https://www.researchgate.net/profile/Vasilis_Myrgiotis). Presented below is a list of the tools/scripts that I use and are available on GitHub. 
 
-### DALEC-Grass 
+- DALEC-Grass : 
 
-DALEC-Grass is a parsimonious process-model of grassland biogeochemistry. It simulates photosynthesis, carbon allocation and biomass grazing and harvest in managed grasslands. The code of the model can be found [here](https://github.com/vmyrgiotis/DALEC_Grass) and a tutorial of using DALEC-Grass can be found [here](https://github.com/vmyrgiotis/DALEC_Grass).
+DALEC-Grass is a model of carbon biogeochemistry in managed grasslands. It simulates photosynthesis, carbon allocation and biomass grazing and harvest in managed grasslands. The code of the model can be found [here](https://github.com/vmyrgiotis/DALEC_Grass) and a tutorial of using DALEC-Grass can be found [here](https://github.com/vmyrgiotis/DALEC_Grass).
 
 ### Model-data fusion  
 
