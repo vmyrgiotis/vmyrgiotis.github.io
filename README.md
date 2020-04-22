@@ -5,8 +5,7 @@ Welcome to my GitHub page. I am a postdoctoral researcher at the School of Geosc
 
 ### Code 
 --------- 
-**DALEC-Grass** is a model of carbon biogeochemistry in managed grasslands ([code](https://github.com/vmyrgiotis/DALEC_Grass) & [tutorial](https://github.com/vmyrgiotis/DALEC_Grass)).
-
+**DALEC-Grass** is a model of carbon biogeochemistry in managed grasslands ([code](https://github.com/GCEL))
 **Model-data fusion (MDF)** is the process of using observations of agro-ecosystem functioning to improve the reliability of agro-ecosystem models and their predictions. A MDF algorithm developed for use with DALEC-Grass can be found [here](https://github.com/vmyrgiotis/DALEC_Grass).
 
 **Model evaluation** metrics are used to provide quantitative assessments of model predictive skill against observed system variables. A tutorial on agro-ecosystem model evaluation using the *accuracy* metric can be found [here](https://github.com/vmyrgiotis/model_evaluation_tutorial).
