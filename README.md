@@ -1,6 +1,6 @@
 ### About 
 --------- 
-Welcome to my GitHub page. I am a postdoctoral researcher at the School of Geosciences of the University of Edinburgh. My research focuses on the interface between agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict carbon and nitrogen dynamics in agricultural ecosystems.
+Welcome to my GitHub page. I am a researcher at the School of Geosciences of the University of Edinburgh. My research focuses on the interface between agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict carbon and nitrogen dynamics in agricultural ecosystems.
 
 
 ### Code 
