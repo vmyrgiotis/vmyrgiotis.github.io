@@ -14,4 +14,4 @@ Welcome to my GitHub page. I am a researcher working at the School of Geoscience
 
 ### Publications 
 --------- 
-An up-to-date list of publications is available on [ResearchGate](https://www.researchgate.net/profile/Vasilis_Myrgiotis/publications). 
+An up-to-date list of publications is available on [ResearchGate](https://www.researchgate.net/profile/Vasilis-Myrgiotis-2). 
