@@ -5,7 +5,7 @@ Welcome to my GitHub page. I am a researcher working at the University of Edinbu
 
 ### Code
 --------- 
-**DALEC-Grass** is a model of carbon biogeochemistry in managed grasslands. A version of the model's code is available [here](https://github.com/GCEL).
+**DALEC-Grass** is a model of carbon biogeochemistry in managed grasslands. A version of the model's code is available [here](https://github.com/GCEL/DALEC-Grass).
 
 **Model-data fusion (MDF)** is the process of using observations of agro-ecosystem functioning to improve the reliability of agro-ecosystem models and their predictions. A MDF algorithm developed for use with DALEC-Grass can be found [here](https://github.com/vmyrgiotis/MDF_DALEC_GRASS).
 
