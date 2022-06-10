@@ -1,20 +1,20 @@
 ### About 
 --------- 
-Welcome to my GitHub page. I am a researcher working at the University of Edinburgh and the UK Centre for Ecology and Hydrology. My research focuses on the interface between agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the dynamics of carbon and nitrogen in agricultural ecosystems.
+Welcome to my GitHub page. I am a researcher working at the University of Edinburgh and the UK Centre for Ecology and Hydrology. My research focuses on the interface between agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the dynamics of carbon (C) and nitrogen (N) in agricultural ecosystems.
 
 
 ### Code
 --------- 
-**DALEC-Grass** is a model of carbon biogeochemistry in managed grasslands. A version of the model's code is available [here](https://github.com/GCEL/DALEC-Grass).
+**DALEC-Grass** is a model of C biogeochemistry in managed grasslands. A version of the model's code is available [here](https://github.com/GCEL/DALEC-Grass).
 
 ![alt text](https://github.com/GCEL/DALEC-Grass/blob/master/dalec_grass.gif)
 
-**Model-data fusion (MDF)** is the process of using observations of agro-ecosystem functioning to improve the reliability of agro-ecosystem models and their predictions. A MDF algorithm developed for use with DALEC-Grass in order to provide credible spatially and temporally resolved estimates of ecosystem C balance can be found [here](https://github.com/vmyrgiotis/MDF_DALEC_GRASS).
+**Model-data fusion (MDF)** is the process of using observations of agro-ecosystem functioning to improve the reliability of agro-ecosystem models and their predictions. A MDF algorithm developed for use with DALEC-Grass in order to provide credible spatially and temporally resolved estimates of ecosystem C balance is available [here](https://github.com/vmyrgiotis/MDF_DALEC_GRASS).
 
 ![alt text](https://github.com/vmyrgiotis/vmyrgiotis.github.io/blob/master/mdf.001.jpeg)
 
 
-**Model evaluation** metrics are used to provide quantitative assessments of model predictive skill against observed system variables. A tutorial on agro-ecosystem model evaluation can be found [here](https://github.com/vmyrgiotis/model_evaluation_tutorial).
+**Model evaluation** metrics provide quantitative assessments of model predictive skill against observed system variables. A tutorial on agro-ecosystem model evaluation can be found [here](https://github.com/vmyrgiotis/model_evaluation_tutorial).
 
 ### Publications 
 --------- 
