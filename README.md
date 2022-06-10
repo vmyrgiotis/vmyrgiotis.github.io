@@ -1,6 +1,6 @@
 ### About 
 --------- 
-I am a researcher working at the University of Edinburgh and at the UK Centre for Ecology and Hydrology. My research focuses on the interface between agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the dynamics of carbon (C) and nitrogen (N) in agricultural ecosystems.
+I am a researcher at the University of Edinburgh and the UK Centre for Ecology and Hydrology. My research focuses on the interface between agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the dynamics of carbon (C) and nitrogen (N) in agricultural ecosystems.
 
 
 ### Code
