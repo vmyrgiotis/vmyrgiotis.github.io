@@ -1,6 +1,6 @@
 ### About 
 --------- 
-Welcome to my GitHub page. I am a researcher working at the University of Edinburgh and the UK Centre for Ecology and Hydrology. My research focuses on the interface between agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the dynamics of carbon (C) and nitrogen (N) in agricultural ecosystems.
+I am a researcher working at the University of Edinburgh and the UK Centre for Ecology and Hydrology. My research focuses on the interface between agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the dynamics of carbon (C) and nitrogen (N) in agricultural ecosystems.
 
 
 ### Code
@@ -18,4 +18,4 @@ Welcome to my GitHub page. I am a researcher working at the University of Edinbu
 
 ### Publications 
 --------- 
-An up-to-date list of publications is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7BUpIaMAAAAJ&view_op=list_works&gmla=AJsN-F67ipgGPMUX540_YUjEsnqlh-nYwY57rH_2fCyHyMvHj846RQa4GVP5WiQJ68J1BR6I2WSe0fvv6pFcw_vzTCh2leYWGR5vtXvLU2Z0QATwQhYojbM#d=gsc_md_pro-d&t=1654878962516&u=%23t%3Dgsc_m). 
+An up-to-date list of publications I have contributed to is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7BUpIaMAAAAJ&view_op=list_works&gmla=AJsN-F67ipgGPMUX540_YUjEsnqlh-nYwY57rH_2fCyHyMvHj846RQa4GVP5WiQJ68J1BR6I2WSe0fvv6pFcw_vzTCh2leYWGR5vtXvLU2Z0QATwQhYojbM#d=gsc_md_pro-d&t=1654878962516&u=%23t%3Dgsc_m). 
