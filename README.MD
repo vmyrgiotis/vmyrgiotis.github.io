@@ -1,1 +1,1 @@
-vmyrgiotis.github.io
+http://vmyrgiotis.github.io
