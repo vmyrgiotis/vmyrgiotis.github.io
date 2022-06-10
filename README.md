@@ -1,9 +1,9 @@
 ### About 
 --------- 
-Welcome to my GitHub page. I am a researcher working at the University of Edinburgh (UK) and the UK Centre for Ecology and Hydrology. My research focuses on the interface between agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the dynamics of carbon and nitrogen in agricultural ecosystems.
+Welcome to my GitHub page. I am a researcher working at the University of Edinburgh and the UK Centre for Ecology and Hydrology. My research focuses on the interface between agricultural ecosystems and the environment. I use mathematical modelling and data analytics to understand, describe and predict the dynamics of carbon and nitrogen in agricultural ecosystems.
 
 
-### Code 
+### Code
 --------- 
 **DALEC-Grass** is a model of carbon biogeochemistry in managed grasslands. A version of the model's code is available [here](https://github.com/GCEL).
 
