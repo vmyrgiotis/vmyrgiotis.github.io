@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Vasilis Myrgiotis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Short bio"
+  location         : # "Earth"
   employer         : "UK Centre for Ecology\nand Hydrology"
   uri              : # URL
   email            : "vasmyr@ceh.ac.uk" 
