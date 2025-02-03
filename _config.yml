@@ -28,7 +28,7 @@ author:
   bio              : "Short bio"
   location         : # "Earth"
   employer         : "UKCEH"
-  uri              : # URL
+  uri              : "https://www.ceh.ac.uk"
   email            : "vasmyr@ceh.ac.uk" 
 
   # Academic websites
