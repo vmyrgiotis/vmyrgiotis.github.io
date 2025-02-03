@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "dark"
-title                    : "Your Name / Site Title"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Vasilis Myrgiotis"
 description              : &description "personal description"
