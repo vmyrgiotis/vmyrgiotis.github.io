@@ -23,7 +23,7 @@ Work experience
 * 2017-2022: Postdoctoral Research Associate, University of Edinburgh
   * Developed model-data fusion algorithms
   * Developed a carbon cycling model for grassland ecosystems
-  * Developed a satellite data fusion algorithms for gap filling vegetation indices timeseries
+  * Developed satellite data fusion algorithms for gap filling vegetation indices timeseries
   * Operationalised scientific code for use in farming consultancy
     
   
