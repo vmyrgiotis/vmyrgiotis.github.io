@@ -33,8 +33,8 @@ Skills
   * Fortran, Python, R, Julia, bash  
 * Big data handling 
 * Earth observation data processing
-* Project management
 * Scientific writing
+* Project management
 
 Publications
 ======
