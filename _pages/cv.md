@@ -17,20 +17,17 @@ Education
  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - today : Environmental Modeller 
+  * UK Centre for Ecology and Hydrology 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2022: Postdoctoral Research Associate
+  * University of Edinburgh
+  * Developed  model-data fusion algorithms
+  * Developed carbon cycling model for grassland ecosystems
+  * Developed satellite data fusion for gap filling of vegetation indices 
+  * Operationalised scientific code for use in farming consultancy
+    
   
 Skills
 ======
