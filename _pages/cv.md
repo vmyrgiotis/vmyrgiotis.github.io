@@ -25,7 +25,7 @@ Work experience
   * University of Edinburgh
   * Developed  model-data fusion algorithms
   * Developed carbon cycling model for grassland ecosystems
-  * Developed satellite data fusion for gap filling of vegetation indices 
+  * Developed satellite data fusion algorithms for gap filling vegetation indices timeseries
   * Operationalised scientific code for use in farming consultancy
     
   
