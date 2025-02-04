@@ -54,6 +54,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Affiliations
 ======
-* Currently signed in to 43 different slack teams
+* British Society of Soil Science
+* British Ecological Society 
+* American Geophysical Union
+* European Geosciences Union
+* International Environmental Modelling and Software Society
+* Technical Chamber of Greece
