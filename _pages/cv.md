@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D in Atmospheric and Environmental Sciences, University of Edinburgh, 2017
+* M.S. in Environmental Protection and Management, University of Edinburgh, 2011
+* M.Eng. in Mining & Metallurgical Engineering with Major in Environmental Engineering, National Technical University Athens, 2009
+ 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
