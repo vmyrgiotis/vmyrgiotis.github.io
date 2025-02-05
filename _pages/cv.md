@@ -33,7 +33,10 @@ Skills
 
 Publications
 ======
-You can find an up to date list of publications I have contributed to [here](https://link-url-here.org](https://scholar.google.com/citations?hl=en&user=7BUpIaMAAAAJ&view_op=list_works)
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
   
 Talks
 ======
