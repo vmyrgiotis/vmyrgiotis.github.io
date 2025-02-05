@@ -19,7 +19,7 @@ Work experience
 ======
 
 * 2022 - today : Environmental Modeller, UK Centre for Ecology and Hydrology 
-* 2017-2022: Postdoctoral Research Associate, University of Edinburgh
+* 2017 - 2022: Postdoctoral Research Associate, University of Edinburgh
 
   
 Skills
