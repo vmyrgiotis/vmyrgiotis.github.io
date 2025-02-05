@@ -19,18 +19,13 @@ Work experience
 ======
 
 * 2022 - today : Environmental Modeller, UK Centre for Ecology and Hydrology 
-
 * 2017-2022: Postdoctoral Research Associate, University of Edinburgh
-  * Developed model-data fusion algorithms
-  * Developed a carbon cycling model for grassland ecosystems
-  * Developed satellite data fusion algorithms for gap filling vegetation indices timeseries
-  * Operationalised scientific code for use in farming consultancy
-    
+
   
 Skills
 ======
 * Scientific programming
-  * Fortran, Python, R, Julia, bash  
+* Computational modelling
 * Big data handling 
 * Earth observation data processing
 * Scientific writing
@@ -38,9 +33,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+You can find an up to date list of publications I have contributed to [here](https://link-url-here.org](https://scholar.google.com/citations?hl=en&user=7BUpIaMAAAAJ&view_op=list_works)
   
 Talks
 ======
