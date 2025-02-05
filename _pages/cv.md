@@ -35,8 +35,8 @@ Publications
 ======
 
 You can find an up to date list of publicatons I have contrinuted to [here](https://scholar.google.com/citations?user=7BUpIaMAAAAJ&hl=en&oi=ao)
-<!---
 
+<!---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
