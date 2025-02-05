@@ -56,9 +56,9 @@ Teaching
   
 Affiliations
 ======
-* British Society of Soil Science
-* British Ecological Society 
-* American Geophysical Union
-* European Geosciences Union
-* International Environmental Modelling and Software Society
-* Technical Chamber of Greece
+* [British Society of Soil Science](https://soils.org.uk)
+* [British Ecological Society](https://www.britishecologicalsociety.org) 
+* [American Geophysical Union](https://www.agu.org)
+* [European Geosciences Union](https://www.egu.eu)
+* [International Environmental Modelling and Software Society](https://iemss.org)
+* [Technical Chamber of Greece](https://web.tee.gr/en/)
